@@ -66,7 +66,7 @@ SimpleDHT.h
 ## Demo
 ### Web Interface
 
-![Web Interface](doc/web.png)
+![Web Interface](doc/Hardware_Setup.png)
 
 ### Hardware Setup
 
@@ -74,7 +74,7 @@ SimpleDHT.h
 
 ### Serial Output
 
-![Serial](doc/serial.png)
+![Serial](doc/Serial_monitor.png)
 Web Page
 
 Real-time temperature and humidity display
