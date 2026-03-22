@@ -75,7 +75,7 @@ Real-time temperature and humidity display
 Remote LED control buttons
 
 AUTO / MANUAL mode buttons
-![Web Interface](main/Hardware_Setup.jpg)
+![Web Interface](web.jpg)
 
 
 
