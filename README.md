@@ -66,11 +66,11 @@ SimpleDHT.h
 ## Demo
 ### Web Interface
 
-![Web Interface](doc/Hardware_Setup.png)
+![Web Interface](doc/Hardware_Setup.jpg)
 
 ### Hardware Setup
 
-![Hardware](doc/setup.jpg)
+![Hardware](doc/Hardware_Setup.jpg)
 
 ### Serial Output
 
