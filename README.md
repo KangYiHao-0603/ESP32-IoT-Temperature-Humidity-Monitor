@@ -64,21 +64,19 @@ SimpleDHT.h
 7.Open the IP address in a mobile phone browser connected to the same Wi-Fi network
 
 ## Demo
-### Web Interface
-
-![Web Interface](main/Hardware_Setup.jpg)
-
 ### Hardware Setup
 
-![Hardware](main/setup.jpg)
-
+![Hardware](setup.jpg)
 ### Serial Output
-
-![Serial](main/serial.jpg)
-Web Page
-
 Real-time temperature and humidity display
 
+![Serial](serial.jpg)
+### Web Interface
 Remote LED control buttons
 
 AUTO / MANUAL mode buttons
+![Web Interface](main/Hardware_Setup.jpg)
+
+
+
+
