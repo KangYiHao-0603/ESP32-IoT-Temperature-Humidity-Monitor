@@ -22,7 +22,7 @@ Built an ESP32-based IoT monitoring system that reads temperature and humidity f
 - ESP32 Wi-Fi
 - WebServer library
 - SimpleDHT library
-- C++
+- C programming
 
 ## System Architecture
 ```text
