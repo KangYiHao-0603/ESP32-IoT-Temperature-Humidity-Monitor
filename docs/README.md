@@ -1,38 +1,30 @@
-# Documentation
+# ESP32-IoT-Temperature-Humidity-Monitor
+Built an ESP32-based IoT monitoring system that reads temperature and humidity from a DHT11 sensor, hosts a web interface over Wi-Fi, and supports remote LED control with auto/manual mode switching.
 
-## Hardware Setup
+## How to Run
 
-![Hardware Setup](Hardware_Setup.jpg)
+1.Install Arduino IDE and ESP32 board package
 
-- ESP32
-- DHT11 sensor
-- LED
+2.Install required libraries:
 
----
+WiFi.h
 
-## System Architecture
+WebServer.h
 
----
+SimpleDHT.h
 
-## Test Results
+3.Connect the hardware
 
-### Serial Monitor
-![Serial Output](serial.png)
+4.pdate the Wi-Fi SSID and password in the code
 
-### Web Interface
-![Web Interface](web.png)
+5.Upload the code to ESP32
 
----
+6.Open Serial Monitor and check the IP address
 
-## Observations
+7.Open the IP address in a mobile phone browser connected to the same Wi-Fi network
 
-- Temperature updates every 3 seconds
-- LED turns ON when temperature exceeds threshold in AUTO mode
-- Manual mode overrides automatic control
 
----
 
-## Issues and Debug
 
-- Wi-Fi connection requires 2.4 GHz network
-- DHT11 reading may fail if read too frequently
+
+
