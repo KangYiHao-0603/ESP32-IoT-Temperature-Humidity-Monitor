@@ -29,6 +29,7 @@ Built an ESP32-based IoT monitoring system that reads temperature and humidity f
 DHT11 Sensor --> ESP32 --> Wi-Fi --> Mobile Browser
                     |
                     --> LED Control
+```
 ## Pin Configuration
 
 DHT11 data pin: GPIO15
