@@ -31,7 +31,7 @@ DHT11 Sensor --> ESP32 --> Wi-Fi --> Mobile Browser
                     --> LED Control
 ```
 ## Pin Configuration
-- In `src/main.ino.cpp` edit line #14 to use UART, I²C, or analog sensor input:
+- In `src/main.ino.c` edit line #14 to use  sensor input:
 ```
 // INPUT MODES:
 #define pinDHT11 = 15;
@@ -64,18 +64,23 @@ SimpleDHT.h
 7.Open the IP address in a mobile phone browser connected to the same Wi-Fi network
 
 ## Demo
-### Hardware Setup
 
-![Hardware](setup.jpg)
+### Hardware Setup
+<p align="center">
+  <img src="setup.jpg" width="400">
+</p>
+
 ### Serial Output
 Real-time temperature and humidity display
+<p align="center">
+  <img src="serial.jpg" width="600">
+</p>
 
-![Serial](serial.jpg)
 ### Web Interface
-Remote LED control buttons
-
-AUTO / MANUAL mode buttons
-![Web Interface](web.jpg)
+Remote LED control buttons:AUTO / MANUAL mode 
+<p align="center">
+  <img src="web.jpg" width="400">
+</p>
 
 
 
