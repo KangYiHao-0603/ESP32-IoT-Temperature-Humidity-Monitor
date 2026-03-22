@@ -64,14 +64,17 @@ SimpleDHT.h
 7.Open the IP address in a mobile phone browser connected to the same Wi-Fi network
 
 ## Demo
-Serial Monitor
+### Web Interface
 
-Shows Wi-Fi connection status
+![Web Interface](docs/web.png)
 
-Shows temperature and humidity readings
+### Hardware Setup
 
-Shows current LED mode and state
+![Hardware](docs/setup.jpg)
 
+### Serial Output
+
+![Serial](docs/serial.png)
 Web Page
 
 Real-time temperature and humidity display
