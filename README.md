@@ -31,7 +31,12 @@ DHT11 Sensor --> ESP32 --> Wi-Fi --> Mobile Browser
                     --> LED Control
 ```
 ## Pin Configuration
-
+- In `src/main.cpp` edit line #14 to use UART, I²C, or analog sensor input:
+```
+// INPUT MODES:
+#define SENSOR_ DHT11_GPIO   15 // DHT11 data pin: GPIO15
+#define SENSOR_ LED_GPIO    2 // LED pin: GPIO2
+```
 DHT11 data pin: GPIO15
 
 LED pin: GPIO2
