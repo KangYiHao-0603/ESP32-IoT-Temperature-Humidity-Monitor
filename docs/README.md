@@ -2,7 +2,7 @@
 
 ## Hardware Setup
 
-![Hardware Setup](setup.jpg)
+![Hardware Setup](Hardware_Setup.jpg)
 
 - ESP32
 - DHT11 sensor
