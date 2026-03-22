@@ -29,13 +29,13 @@ Built an ESP32-based IoT monitoring system that reads temperature and humidity f
 DHT11 Sensor --> ESP32 --> Wi-Fi --> Mobile Browser
                     |
                     --> LED Control
-#Pin Configuration
+###Pin Configuration
 
 DHT11 data pin: GPIO15
 
 LED pin: GPIO2
 
-#How to Run
+###How to Run
 
 1.Install Arduino IDE and ESP32 board package
 
@@ -57,7 +57,7 @@ SimpleDHT.h
 
 7.Open the IP address in a mobile phone browser connected to the same Wi-Fi network
 
-#Demo
+###Demo
 Serial Monitor
 
 Shows Wi-Fi connection status
