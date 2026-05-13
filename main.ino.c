@@ -10,8 +10,8 @@
 // Global variables
 
 // Hardware pin configuration
-#define pinDHT11 = 15;
-#define LED_PIN = 2;
+#define pinDHT11  15
+#define LED_PIN  2
 
 // Wi-Fi credentials
 // String literals are stored in Flash memory
